@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Copyright (C) 2012 Dennis Francis<dennisfrancis.in@gmail.com>
+
 """
     Graph data structure using hash tables.(inspired by CS215@Udacity)
 """

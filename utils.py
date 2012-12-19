@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Utility classes for graph algorithms
+# Copyright (C) 2012 Dennis Francis<dennisfrancis.in@gmail.com>
 
 class Heap(object):
     def __init__(self, L, Ref):
